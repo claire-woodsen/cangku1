@@ -9,3 +9,10 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 
 ---第五次
+
+---五次的2次修改
+
+--66
+--662
+
+My stupid boss still prefers SVN.
